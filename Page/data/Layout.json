@@ -1,0 +1,16 @@
+{
+  "navbar": {
+    "components": {
+      "menu": {
+        "message": "Menu 1"
+      }
+    }
+  },
+  "leftnavbar": {
+    "components": {
+      "menu": {
+        "message": "Menu 1"
+      }
+    }
+  }
+}
