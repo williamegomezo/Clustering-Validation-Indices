@@ -1,0 +1,11 @@
+{
+  "title": "Clustering Indices",
+  "components": {
+    "menu1": {
+      "message": "Menu 1"
+    },
+    "menu2": {
+      "message": "Menu 2"
+    }
+  }
+}

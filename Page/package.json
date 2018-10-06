@@ -1,0 +1,45 @@
+{
+  "name": "front-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --open --config webpack.dev.js",
+    "build": "webpack --config webpack.prod.js",
+    "serve": "http-serve ../docs"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/williamegomez/PollaApp#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "clean-webpack-plugin": "^0.1.18",
+    "copy-webpack-plugin": "^4.3.1",
+    "css-loader": "^0.28.9",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "html-webpack-plugin": "^2.30.1",
+    "html-webpack-template-pug": "^1.1.1",
+    "http-serve": "^1.0.1",
+    "node-sass": "^4.7.2",
+    "pug": "^2.0.3",
+    "pug-loader": "^2.3.0",
+    "raw-loader": "^0.5.1",
+    "sass-loader": "^6.0.6",
+    "standard": "^10.0.3",
+    "standard-loader": "^6.0.1",
+    "style-loader": "^0.20.1",
+    "stylelint": "^8.4.0",
+    "stylelint-config-recommended-scss": "^3.0.0",
+    "stylelint-scss": "^2.2.0",
+    "stylelint-webpack-plugin": "^0.10.1",
+    "uglifyjs-webpack-plugin": "^1.1.8",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.1",
+    "webpack-merge": "^4.1.1"
+  },
+  "dependencies": {
+    "file-loader": "^1.1.11"
+  }
+}
