@@ -1,0 +1,16 @@
+python Images_Sim_or_Real_NewMethodology.py Merged 0
+python Images_Sim_or_Real_NewMethodology.py Merged 1
+python Images_Sim_or_Real_NewMethodology.py Merged 2
+python Images_Sim_or_Real_NewMethodology.py DBScan 0 & python Images_Sim_or_Real_NewMethodology.py DBScan 1 & python Images_Sim_or_Real_NewMethodology.py DBScan 2
+python Images_Sim_or_Real_NewMethodology.py EM 0 & python Images_Sim_or_Real_NewMethodology.py EM 1 & python Images_Sim_or_Real_NewMethodology.py EM 2
+python Images_Sim_or_Real_NewMethodology.py Birch 0 & python Images_Sim_or_Real_NewMethodology.py Birch 1 & python Images_Sim_or_Real_NewMethodology.py Birch 2
+python Images_Sim_or_Real_NewMethodology.py Kmeans 0 & python Images_Sim_or_Real_NewMethodology.py Kmeans 1 & python Images_Sim_or_Real_NewMethodology.py Kmeans 2
+python Images_Sim_or_Real_NewMethodology.py Lamda 0 & python Images_Sim_or_Real_NewMethodology.py Lamda 1 & python Images_Sim_or_Real_NewMethodology.py Lamda 2
+python Images_Sim_or_Real_NewMethodology.py Sting 0 & python Images_Sim_or_Real_NewMethodology.py Sting 1 & python Images_Sim_or_Real_NewMethodology.py Sting 2
+
+python WhichBestAlgorithm.py Merged 0
+python WhichBestAlgorithm.py Merged 1
+python WhichBestAlgorithm.py Merged 2
+
+
+
